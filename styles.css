@@ -1,0 +1,176 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+body {
+  font-family: "Oswald", sans-serif;
+  background-color: #92977e;
+  color: #000;
+}
+
+header {
+  background-color: #627246;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+header img {
+  width: 150px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-family: "Roboto", sans-serif;
+}
+
+.products {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.product {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.product img {
+  margin-right: 20px;
+  width: 500px; /* Resim genişliği isteğinize göre ayarlayabilirsiniz */
+  height: auto;
+  border-radius: 20px;
+}
+
+.product .description {
+  width: 300px; /* Açıklama kutucuğu genişliği isteğinize göre ayarlayabilirsiniz */
+}
+
+.products {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.product {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: calc(50% - 20px);
+}
+
+.logo {
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.product img {
+  margin-right: 20px;
+  width: 500px; /* Resim genişliği isteğinize göre ayarlayabilirsiniz */
+  height: auto;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.product .description {
+  width: 400px; /* Açıklama kutucuğu genişliği isteğinize göre ayarlayabilirsiniz */
+}
+
+.oval {
+  border: none;
+  padding: 20px;
+  border-radius: 10%;
+  width: 350px;
+  height: 300px;
+  text-align: center;
+  overflow: auto;
+  background-color: #7d8491;
+  box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.5);
+}
+
+.ana_baslik {
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+footer {
+  background-color: #3f334daf; /* Footer arka plan rengi */
+  color: #fff; /* Metin rengi */
+  padding: 20px 0; /* Footer içeriği ile kenar boşluğu */
+  border-radius: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.contact-info,
+.site-map,
+.social-media {
+  flex: 1;
+  margin: 0 20px;
+}
+
+.contact-info h3,
+.site-map h3,
+.social-media h3 {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.contact-info p,
+.site-map ul,
+.social-media ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.site-map ul li {
+  margin-bottom: 5px;
+}
+
+.social-media ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-media ul li:last-child {
+  margin-right: 0;
+}
+
+.social-media ul li a img {
+  width: 30px;
+  height: 30px;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 20px;
+}

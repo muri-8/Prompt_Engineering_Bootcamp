@@ -1,0 +1,43 @@
+Sırt Çantası, Sandalye,Saksı,Saat,Parfüm Şişesi, Lamba, Kol Saati, Kalemlik, Kahve Pakedi, Bilgisayar Standı Ürünlerinin tanıtıldığı bir web sitesi oluştur. Web sitesinin HTML yapısında, semantik etiketlerin(header, main, nav, section, article, aside, footer) kullanılması beklenmektedir. Bu ürünlerin fotoğrafları images klasörü altında jpeg olarak kayıtlıdır.
+
+Bir front end developer olarak hareket etmeni istiyorum.
+
+HTML ve CSS kullanarak yeni bir web sitesi oluştur. Web sitesini farklı ekran boyutlarına ve cihazlara uyumlu hale getirmek için medya sorgularını kullanarak CSS'i düzenlemeni istiyorum. Responsive tasarım ilkelerini takip ederek, kullanıcıların herhangi bir cihazda rahatça gezinebilecekleri bir deneyim sunmanı istiyorum.
+
+Web sitesi tasarımında Twitter Bootstrap CSS çerçevesinin en güncel sürümünü kullanarak, modern ve estetik bir görünüm elde etmeni istiyorum. Bootstrap'in bileşenlerini ve öğelerini etkili bir şekilde kullanarak düzeni optimize edip, kullanıcı dostu bir arayüz oluşturmanı istiyorum.
+
+HTML dosyasında, web sitesinin her bölümüne ilişkin başlıklar oluşturun ve bu başlıklara dahili bağlantılar ekleyerek gezinme menüsü oluşturmanı istiyorum. Bu menü, kullanıcıların kolayca ilgili bölümlere erişimini sağlamalıdır.
+
+HTML ve CSS kodlarını ayrı çıktılar halinde sunmanı istiyorum. Her bir dosyayı ayrı ayrı düzenleyerek, kodları anlaşılır ve yönetilebilir bir şekilde sunman lazım.
+
+Kodlarını açıklama yapmadan sunmanı istiyorum. Kodların kendisi, anlaşılır isimlendirme ve düzenleme ile yeterince açık olmalıdır.
+
+Web sitesinin performansını artırmak için sayfa yüklemesi hızını optimize etmeni istiyorum. Gereksiz dosyaları ve kaynakları minimize ederek aynı zamanda ön yükleme tekniklerini de kullanarak daha hızlı bir kullanıcı deneyimi sağlamanı istiyorum.
+
+Web sitesinin SEO (Arama Motoru Optimizasyonu) uyumunu artırmak için uygun meta etiketlerini ve başlık yapılandırmasını kullanmanı istiyorum. Anahtar kelimeleri ve içerikleri doğru bir şekilde optimize ederek, web sitesinin arama motorlarında daha iyi sıralamalara ulaşmasını sağlamanı istiyorum.
+
+Web sitesinin güvenliğini sağlamak için form girişlerini doğrulayın ve gerekli güvenlik önlemlerini almanı istiyorum. Özellikle kullanıcı girişi veya ödeme işlemleri gibi hassas bilgilerin iletilmesi durumunda HTTPS gibi güvenli bağlantıları kullanmanı istiyorum.
+
+Resimlere fare ile gelindiğinde, hoş bir geçiş efekti uygulanmalıdır. Örneğin, resimlerin üzerine gelindiğinde hafif bir gölgelendirme veya belirginleştirme efekti uygulanabilir. Ayrıca, resimlerin altına ürün adı veya açıklaması gibi bilgiler eklenerek, ziyaretçilere daha fazla bilgi sunulabilir. Bu şekilde, ürünlerin önizlemeleri kullanıcılar tarafından daha kolay ve çekici bir şekilde görüntülenebilir hale getirilmiş olur.
+
+üzerinde "RISE SHINE" yazan bir kahve paketi olsun ortada. Arka plan gri ve sinematik olsun. Kahve paketine gölgeler ekle. Paketin rengi açık kahve tonları olsun ve minimalist kıvrımlı desen olsun. Alt kısmında medıum ve arabic olduğunu belirten simgeler olsun. altında kahvenin asiditesini gösteren 5 küçük kahve çekirdeği simgesi olan, daha gerçekçi ve etkileyici bir kahve paketi olsun.
+
+I will design a table lamp. Utily Lighting Design Project Objectives: Stee or Chrome legs contrast and refiect tne vivid red to further establish the utilitarian persona No paint or added features . Every element has been designed meticulously - there is no "by Chance' with the Utily family Aithough the industrial utilitarianism design is bold, the warmth of light that emits from the reflective dome is enough to light any desk perfectly. Get a gray background and a close-up of the lamput
+
+ahşap bir duvar saati yap. Arka plan yeşil ve yaprak desenli bir duvar kağıdı olsun. görsel daha sinematik olsun. saatin akrep ve yelkovanında yaprak silüeti olsun. 1 den 12 ye kadar sayıları ekle.
+
+Bir bilgisayar standı tasarlayarak kullanıcıların çalışma deneyimini geliştirmek için ergonomik bir yaklaşım benimseyin. Standın endüstriyel tasarımı, dayanıklılık ve şıklığı bir araya getirerek modern çalışma ortamlarına uyum sağlasın. Kullanıcıların konforunu artırmak için standın yüksekliği ayarlanabilir ve ekstra depolama alanları sunabilirsiniz. Fonksiyonelliği ön planda tutarak kabloları düzenlemek ve aksesuarları organize etmek için entegre çözümler ekle. Tasarımı, kullanıcıların verimliliğini artırırken estetik ve pratik bir deneyim sunmalıdır.
+
+Minimalist bir yaklaşımla beyaz renkte bir seyahat çantası tasarlayarak kullanıcılara pratik ve şık bir deneyim sun . Katlanabilir özelliği sayesinde çantanın depolama ve taşıma kolaylığı sağla. Ergonomik askılar ve bel kemeriyle kullanıcının sırtına ve beline destek vererek uzun süreli kullanımlarda konfor sunun. İleri teknoloji malzemeler kullanarak çantanın hafif ve dayanıklı olmasını sağlayın. İç bölmede farklı bölmeler ve cepler ekleyerek eşyaların düzenli bir şekilde taşınmasını sağla.
+
+Metal ve ahşap detayların uyumunu yansıtarak çok fonksiyonlu bir kalemlik tasarla. Kalemlik, kalemleri düzenli tutmanın yanı sıra, cep telefonları, kulaklıklar ve diğer küçük aksesuarları saklayabileceği ek bölmeler içermeli. Ahşap ve metalin dayanıklılığını bir araya getirerek uzun ömürlü bir ürün tasarla. Kullanıcılara pratiklik sağlamak için kalemliğin altında kaymaz bir taban ekle ve masada sabit kalmasını sağla. Estetik açıdan çekici bir tasarımı benimseyerek çalışma masalarına zarif bir dokunuş ekle.
+
+Akıllı saat yapmanı istiyorum. Ergonomik ve minimalist tasarımları olsun.Kordonu beyaz metal bir renkte olsun.
+
+Minimalist bir yaklaşımla beyaz renkte bir saksı tasarlayarak iç mekanlara zarif bir dokunuş ekle. Altın detaylarla saksının şıklığını artırın ve dikkat çekici bir estetik oluştur. Yuvarlatılmış kenarlar, modern ve yumuşak bir görünüm sağlayarak mekana hoş bir atmosfer kat. Fonksiyonellik açısından saksıda drenaj için delikler bulundur. Kullanıcıların kolaylıkla taşıyabilmesi için hafif ve pratik bir tasarım olsun.
+
+A perfume bottle with water droplets on the sides, set against a blurred and cinematic sea background with soft light leaks from the top right and left, centered in the image, using gold colors for a product design gallery portfolio website.
+
+Bir bilgisayar standı tasarlayarak kullanıcıların çalışma deneyimini geliştirmek için ergonomik bir şekli olsun. Standın endüstriyel tasarımı, dayanıklılık ve şıklığı bir araya getirerek modern çalışma ortamlarına uyum sağlasın. Kullanıcıların konforunu artırmak için standın yüksekliği ayarlanabilir ve ekstra depolama alanları sunabilirsin. Fonksiyonelliği ön planda tutarak kabloları düzenlemek ve aksesuarları organize etmek için entegre çözümler ekle. Tasarımınız, kullanıcıların verimliliğini artırırken estetik ve pratik bir deneyim sunmalıdır.
+
+Ahşap ve metalik bir tasarım içeren bir sandalye tasarlamanı istiyorum. Sırt desteği ve ahşaptan yapılan bu sandalye hem sıcaklık hem de konfor bakımından verimli olsun. Metalik çerçeve ile sandalye daha hoş gözüksün. Sandalye modern dururken aynı zamanda estetik bir görüntü de sunsun. 
